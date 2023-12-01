@@ -4,8 +4,6 @@ I am a software developer with over four years of experience specializing in the
 
 I have extensive knowledge of cloud technologies, with practical experience in both AWS and Google Cloud. Additionally, I excel in the field of machine learning, having worked with Natural Language Processing (NLP) models. I have actively contributed to several articles in this area, demonstrating my commitment and profound understanding of this innovative field.
 
-- 🌎 Ceará - Brazil
-
 ## About me
 
 I consider myself a follower of Clean Code and Design Patterns, always aiming to write good-quality code. I love learning about new technologies and other things:
